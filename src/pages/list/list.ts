@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
-import { ListPageModule } from './list.module';
+//import { ListPageModule } from './list.module';
 
 /**
  * Generated class for the ListPage page.
