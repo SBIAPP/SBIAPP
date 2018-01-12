@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
 /**
- * Generated class for the ClassesPage page.
+ * Generated class for the InputsPage page.
  *
  * See https://ionicframework.com/docs/components/#navigation for more info on
  * Ionic pages and navigation.
@@ -10,16 +10,16 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
 @IonicPage()
 @Component({
-  selector: 'page-classes',
-  templateUrl: 'classes.html',
+  selector: 'page-inputs',
+  templateUrl: 'inputs.html',
 })
-export class ClassesPage {
+export class InputsPage {
 
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
 
   ionViewDidLoad() {
-    console.log('ionViewDidLoad ClassesPage');
+    console.log('ionViewDidLoad InputsPage');
   }
 
 }
